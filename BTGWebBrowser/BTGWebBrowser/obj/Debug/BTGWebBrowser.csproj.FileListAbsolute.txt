@@ -1,0 +1,9 @@
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\bin\Debug\BTGWebBrowser.exe.config
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\bin\Debug\BTGWebBrowser.exe
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\bin\Debug\BTGWebBrowser.pdb
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\obj\Debug\BTGWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\obj\Debug\BTGWebBrowser.Properties.Resources.resources
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\obj\Debug\BTGWebBrowser.csproj.GenerateResource.Cache
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\obj\Debug\BTGWebBrowser.exe
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\obj\Debug\BTGWebBrowser.pdb
+c:\users\pieco\documents\visual studio 2015\Projects\BTGWebBrowser\BTGWebBrowser\obj\Debug\BTGWebBrowser.BTGWebBrowser.resources

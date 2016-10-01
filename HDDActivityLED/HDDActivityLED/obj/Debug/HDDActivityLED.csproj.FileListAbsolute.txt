@@ -1,0 +1,10 @@
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\bin\Debug\HDDActivityLED.exe.config
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\bin\Debug\HDDActivityLED.exe
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\bin\Debug\HDDActivityLED.pdb
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\obj\Debug\HDDActivityLED.csprojResolveAssemblyReference.cache
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\obj\Debug\HDDActivityLED.Properties.Resources.resources
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\obj\Debug\HDDActivityLED.csproj.GenerateResource.Cache
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\obj\Debug\HDDActivityLED.exe
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\obj\Debug\HDDActivityLED.pdb
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\bin\Debug\HDD_Busy.ico
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\HDDActivityLED\HDDActivityLED\bin\Debug\HDD_Idle.ico

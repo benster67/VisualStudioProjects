@@ -1,0 +1,2 @@
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\TruthorDare\bin\Debug\TruthorDare.exe.config
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\TruthorDare\obj\Debug\TruthorDare.csprojResolveAssemblyReference.cache

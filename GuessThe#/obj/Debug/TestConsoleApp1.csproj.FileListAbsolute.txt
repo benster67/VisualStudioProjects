@@ -1,0 +1,9 @@
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\TestConsoleApp1\bin\Debug\TestConsoleApp1.exe.config
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\TestConsoleApp1\bin\Debug\TestConsoleApp1.exe
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\TestConsoleApp1\bin\Debug\TestConsoleApp1.pdb
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\TestConsoleApp1\obj\Debug\TestConsoleApp1.exe
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\TestConsoleApp1\obj\Debug\TestConsoleApp1.pdb
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\TestConsoleApp1\obj\Debug\TestConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\GuessThe#\bin\Debug\TestConsoleApp1.exe.config
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\GuessThe#\obj\Debug\TestConsoleApp1.exe
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\GuessThe#\obj\Debug\TestConsoleApp1.pdb
